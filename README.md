@@ -2,7 +2,7 @@
 ## Info
 * Python 3 + Flask
 * Deploy automático na branch MASTER
-* Link:
+* Link: https://list-todo-api.herokuapp.com/
 
 ## Rotas API
 1. `/tarefa/adicionar`
